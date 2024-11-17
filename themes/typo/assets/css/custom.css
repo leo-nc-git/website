@@ -1,0 +1,43 @@
+/* Place custom css here */
+.flex {
+    display: flex;
+    flex-wrap: wrap; /* Autorise les retours à la ligne */
+    justify-content: flex-start; /* Aligne les éléments à gauche */
+    gap: 10px; /* Ajoute un espace entre les éléments */
+}
+.small {
+    font-size: 1em; /* Taille par défaut */
+}
+
+@media (max-width: 800px) {
+    .small {
+        font-size: 0.9em; /* Réduction modérée */
+    }
+}
+
+@media (max-width: 500px) {
+    .small {
+        font-size: 0.8em; /* Réduction agressive */
+    }
+}
+
+@media (max-width: 400px) {
+    .small {
+        font-size: 0.7em; /* Taille minimale */
+    }
+}
+.header-title {
+    display: flex;
+    align-items: center; /* Centre verticalement le contenu */
+    gap: 10px; /* Ajoute de l'espace entre le logo et le titre */
+    flex-wrap: nowrap; /* Empêche un retour à la ligne entre le logo et le titre */
+}
+
+
+.site-logo {
+    display: inline-block; /* Force un comportement en ligne */
+    width: 40px; /* Taille du logo */
+    height: auto; /* Maintient les proportions */
+    margin-right: 10px; /* Espace entre le logo et le titre */
+    vertical-align: middle; /* Aligne verticalement avec le texte */
+}

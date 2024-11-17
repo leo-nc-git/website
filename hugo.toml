@@ -1,3 +1,32 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Léo Navarro Chafloque'
+
+theme = "typo"
+
+[params]
+homeIntroContent = """
+My name is _Léo Navarro Chalfoque_ and I am a PhD student at EPFL in the [CAG group](https://www.epfl.ch/labs/cag/). I work in mixed characteristic algebraic geometry. I am also interested in homotopy theory, especially when it interacts with the latter.
+"""
+theme = 'light'
+
+showFooter = true
+footerContent = "Léo NC - _Cohomology, crushes and sparkling water._"
+
+faviconPath = '/'
+
+[[params.menu]]
+name = "home"
+url = "/"
+[[params.menu]]
+name = "notes"
+url = "/notes"
+[[params.menu]]
+name = "seminars"
+url = "/seminars"
+[[params.menu]]
+name = "teaching"
+url = "/teaching"
+[[params.menu]]
+name = "miscellany"
+url = "/miscellany"

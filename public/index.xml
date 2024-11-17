@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Léo Navarro Chafloque</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Léo Navarro Chafloque</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/miscellany/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/miscellany/</guid>
+      <description>&lt;p&gt;Apart from doing maths, I enjoy playing competitive Badminton. This season, I am head of competition at &lt;a href=&#34;https://lucbadminton.ch/&#34;&gt;LUC Badminton&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The icon of the website is a minimal art of &lt;em&gt;Gon&lt;/em&gt; from &lt;em&gt;Hunter X Hunter&lt;/em&gt;, a manga I like really much.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/</guid>
+      <description>&lt;p&gt;Here is a collection of various mathematical notes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/pdf/pfd.pdf&#34;&gt;Perfectoid rings&lt;/a&gt;. &lt;em&gt;A colletion of basic facts about perfectoid rings. Included is a general tilting equivalence, a proof of almost purity for fields and miscellany on completions.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/pdf/wittdef.pdf&#34;&gt;Witt vector from deformation theory&lt;/a&gt;. &lt;em&gt;Finding addition and multiplication of Witt Vectors from deformation theory. Included is a recollection on deformation theory.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/pdf/6ff.pdf&#34;&gt;Six-functor formalisms&lt;/a&gt;. &lt;em&gt;Lecture notes from &lt;a href=&#34;https://hoyois.app.uni-regensburg.de/&#34;&gt;Marc Hoyois&lt;/a&gt; course at the &lt;a href=&#34;https://archiveweb.epfl.ch/ytm2023.epfl.ch/&#34;&gt;2023 YTM&lt;/a&gt;. Updated from the YTM website version.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;p&gt;My research focus on using perfectoid and prismatic techniques to various close problems. For example I am interested in understanding perfectoidizations. I am also interested in getting vanishing results in the prismatic setup.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/seminars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/seminars/</guid>
+      <description>&lt;p&gt;Here is a list of seminars I (co-)organized or am corganizing.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;p-adic cohomology.&lt;/strong&gt; &lt;em&gt;With Jefferson Baudin and Domenico Valloni&lt;/em&gt; Fall 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Higher categories.&lt;/strong&gt;  &lt;em&gt;With Virgile Constantin and Bruno Galvez Araneda.&lt;/em&gt;  Introduction to infinity-categories, reading group with (PhD) students. Summer 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Integral models of homotopy types.&lt;/strong&gt; &lt;em&gt;With Samuel Lavenir and Victor Roca i Lucio.&lt;/em&gt; Spring 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Homotopy theory in algebraic geometry and vice-versa.&lt;/strong&gt; &lt;em&gt;With Samuel Lavenir and Victor Roca i Lucio.&lt;/em&gt; Fall 2023.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;p&gt;Here is a list of teaching activities I have a been part of.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Algebraic Geometry II - schemes and sheaves.&lt;/strong&gt; Principal assistant. Fall 2023 and 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Rings and fields.&lt;/strong&gt;  (co)Principal assistant. Spring 2023 and 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Algebraic structures.&lt;/strong&gt; Teaching assistant. Fall 2022.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I supervised Bachelor projects.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cohomology computations.&lt;/strong&gt; Léo Karlen. Spring 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Incarnations of Galois groups.&lt;/strong&gt; Héloïse Mansat. Spring 2023.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+name: Deploy to FTP
+
+on:
+  push:
+    branches:
+      - main # Déclenchement lorsque tu pousses sur la branche principale
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Étape 1 : Cloner le code du dépôt
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Étape 2 : Installer Hugo
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      # Étape 3 : Construire le site Hugo
+      - name: Build Hugo site
+        run: hugo
+
+      # Étape 4 : Déployer via FTP
+      - name: Deploy to FTP
+        uses: sebastianpopp/ftp-deploy-action@v2.1.0
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: public
+          server-dir: / # Change le répertoire cible sur ton serveur si nécessaire

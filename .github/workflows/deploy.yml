@@ -3,14 +3,14 @@ name: Deploy to FTP
 on:
   push:
     branches:
-      - main # Déclenchement lorsque tu pousses sur la branche principale
+      - main  # Déclenchement lorsque tu pousses sur la branche "main"
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # Étape 1 : Cloner le code du dépôt
+      # Étape 1 : Cloner le dépôt GitHub
       - name: Checkout code
         uses: actions/checkout@v3
 
@@ -26,10 +26,9 @@ jobs:
 
       # Étape 4 : Déployer via FTP
       - name: Deploy to FTP
-        uses: sebastianpopp/ftp-deploy-action@v2.1.0
+        uses: SamKirkland/FTP-Deploy-Action@4.3.1
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: public
-          server-dir: / # Change le répertoire cible sur ton serveur si nécessaire

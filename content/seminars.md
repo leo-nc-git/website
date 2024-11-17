@@ -5,7 +5,7 @@ hidePagination= true
 
 Here is a list of seminars I (co-)organized or am corganizing.
 
-**p-adic cohomology.** _With Jefferson Baudin and Domenico Valloni_ Fall 2024.
+**p-adic cohomology.** _With Jefferson Baudin and Domenico Valloni._ Fall 2024.
 
 **Higher categories.**  _With Virgile Constantin and Bruno Galvez Araneda._  Introduction to infinity-categories, reading group with (PhD) students. Summer 2024.
 

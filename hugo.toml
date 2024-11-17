@@ -6,7 +6,7 @@ theme = "typo"
 
 [params]
 homeIntroContent = """
-My name is _Léo Navarro Chalfoque_ and I am a PhD student at EPFL in the [CAG group](https://www.epfl.ch/labs/cag/). I work in mixed characteristic algebraic geometry. I am also interested in homotopy theory, especially when it interacts with the latter.
+My name is _Léo Navarro Chalfoque_ and I am a PhD student at EPFL in the [CAG group](https://www.epfl.ch/labs/cag/). I work in mixed characteristic algebraic geometry. I am also interested in homotopy theory, especially when it interacts with the former.
 """
 theme = 'light'
 
@@ -15,9 +15,15 @@ footerContent = "Léo NC - _Cohomology, crushes and sparkling water._"
 
 faviconPath = '/'
 
+colorPalette =  'gruvebox'
+
+
 [[params.menu]]
 name = "home"
 url = "/"
+[[params.menu]]
+name = "research"
+url = "/research"
 [[params.menu]]
 name = "notes"
 url = "/notes"
@@ -27,6 +33,9 @@ url = "/seminars"
 [[params.menu]]
 name = "teaching"
 url = "/teaching"
+[[params.menu]]
+name = "about"
+url = "/about"
 [[params.menu]]
 name = "miscellany"
 url = "/miscellany"

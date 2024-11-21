@@ -12,4 +12,6 @@ Here is a collection of various mathematical notes.
 
 [Six-functor formalisms](/pdf/6ff.pdf). _Lecture notes from [Marc Hoyois](https://hoyois.app.uni-regensburg.de/) course at the [2023 YTM](https://archiveweb.epfl.ch/ytm2023.epfl.ch/). Updated from the YTM website version._
 
+[Moduli and automorphisms](/pdf/moduli.pdf). _Quick note to explain the saying that "automorphisms are obstruction to representability of moduli"._ 
+
 [Adjoint functor theorems](/pdf/prescat.pdf). _Notes on presentable categories and the adjoint functor theorem._

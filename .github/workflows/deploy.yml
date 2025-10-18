@@ -36,7 +36,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USER }}           # ou FTP_USERNAME selon tes secrets
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./public
+          local-dir: ./public/
           server-dir: /www/leo-nc.info/               # ← adapte au chemin réel
           dangerous-clean-slate: true
           log-level: verbose

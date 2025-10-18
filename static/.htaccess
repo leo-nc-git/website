@@ -2,9 +2,13 @@
 # Forcer HTTPS et WWW sur leo-nc.info :)
 # ---------------------------------------------------------------------
 
-# Active la réécriture d'URL
-# Redirige TOUT vers l'URL canonique https://www.leo-nc.info
+# Canonique = https://leo-nc.info (non-www)
 RewriteEngine On
-RewriteCond %{HTTPS} !=on [OR]
-RewriteCond %{HTTP_HOST} !^www\.leo-nc\.info$ [NC]
-RewriteRule ^ https://www.leo-nc.info%{REQUEST_URI} [R=301,L]
+
+# 1) HTTP -> HTTPS (ne redirige que si on n'est PAS déjà en HTTPS)
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://leo-nc.info%{REQUEST_URI} [R=301,L]
+
+# 2) WWW -> non-WWW (ne redirige que si l'hôte N'EST PAS déjà leo-nc.info)
+RewriteCond %{HTTP_HOST} !^leo-nc\.info$ [NC]
+RewriteRule ^ https://leo-nc.info%{REQUEST_URI} [R=301,L]

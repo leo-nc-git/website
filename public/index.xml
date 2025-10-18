@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Léo Navarro Chafloque</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.leo-nc.info/</link>
     <description>Recent content in Home on Léo Navarro Chafloque</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.leo-nc.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.leo-nc.info/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I did my undegraduate maths studies at EPFL (1st and 2nd year), ENS Ulm (3rd year) and the University Bonn (4th and 5th year). Here is my &lt;a href=&#34;https://drive.google.com/file/d/1jJUhM4yMhBtxE3LvqHcKW4w6qBXNdWCz/view?usp=drive_link&#34;&gt;academical CV&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You can contact me at &lt;a href=&#34;mailto:leo.navarrochafloque@epfl.ch&#34;&gt;leo.navarrochafloque@epfl.ch&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I was born in &lt;a href=&#34;https://live.staticflickr.com/7145/13876814383_ddf0a5a9de_b.jpg&#34;&gt;Vevey, Switzerland&lt;/a&gt;, and I grew up there.&lt;/p&gt;&#xA;&lt;p&gt;If I had inifnite time, I would like, apart from doing maths, to write stories and essays, and getting way better at badminton.&lt;/p&gt;&#xA;&lt;p&gt;Here is a picture of me if you were wondering. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;figure class=&#34;&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;div&gt;&#xD;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Myself&#34; src=&#34;http://localhost:1313/images/recadre.jpg&#34;&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;&lt;/figure&gt;&lt;/p&gt;</description>
+      <guid>https://www.leo-nc.info/about/</guid>
+      <description>&lt;p&gt;I did my undegraduate maths studies at EPFL (1st and 2nd year), ENS Ulm (3rd year) and the University Bonn (4th and 5th year). Here is my &lt;a href=&#34;https://drive.google.com/file/d/1jJUhM4yMhBtxE3LvqHcKW4w6qBXNdWCz/view?usp=drive_link&#34;&gt;academical CV&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You can contact me at &lt;a href=&#34;mailto:leo.navarrochafloque@epfl.ch&#34;&gt;leo.navarrochafloque@epfl.ch&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I was born in &lt;a href=&#34;https://live.staticflickr.com/7145/13876814383_ddf0a5a9de_b.jpg&#34;&gt;Vevey, Switzerland&lt;/a&gt;, and I grew up there.&lt;/p&gt;&#xA;&lt;p&gt;If I had inifnite time, I would like, apart from doing maths, to write stories and essays, and getting way better at badminton.&lt;/p&gt;&#xA;&lt;p&gt;Here is a picture of me if you were wondering. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;figure class=&#34;&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;div&gt;&#xD;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Myself&#34; src=&#34;https://www.leo-nc.info/images/recadre.jpg&#34;&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;&lt;/figure&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/miscellany/</link>
+      <link>https://www.leo-nc.info/miscellany/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/miscellany/</guid>
+      <guid>https://www.leo-nc.info/miscellany/</guid>
       <description>&lt;p&gt;Apart from doing maths, I enjoy playing competitive Badminton. This season, I am head of competition at &lt;a href=&#34;https://lucbadminton.ch/&#34;&gt;LUC Badminton&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This website is a &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo website&lt;/a&gt;, with &lt;a href=&#34;https://github.com/tomfran/typo&#34;&gt;typo theme&lt;/a&gt;. Here is my &lt;a href=&#34;https://github.com/leo-nc-git/website&#34;&gt;GitHub repo&lt;/a&gt;. I used GitHub Actions to deploy this website.&lt;/p&gt;&#xA;&lt;p&gt;The icon of the website is a minimal art of &lt;em&gt;Gon&lt;/em&gt; from &lt;em&gt;Hunter X Hunter&lt;/em&gt;, a manga I like really much.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/notes/</link>
+      <link>https://www.leo-nc.info/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/</guid>
-      <description>&lt;p&gt;Here is a collection of various mathematical notes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/pdf/1ani.pdf&#34;&gt;Mapping spaces of 1-truncated animated rings and transmuted gerbes&lt;/a&gt; &lt;em&gt;We explain how to compute mapping spaces between 1-truncated animated rings, and why we get natural gerbes on so called transmuted stacks from Bhatt&amp;rsquo;s notes &lt;a href=&#34;https://www.math.ias.edu/~bhatt/teaching/mat549f22/lectures.pdf&#34;&gt;prismatic F-Gauges&lt;/a&gt; .&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/pdf/pfd.pdf&#34;&gt;Perfectoid rings&lt;/a&gt;. &lt;em&gt;A colletion of basic facts about perfectoid rings. Included is a general tilting equivalence, a proof of almost purity for fields and miscellany on completions.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>https://www.leo-nc.info/notes/</guid>
+      <description>&lt;p&gt;Here is a collection of various mathematical notes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.leo-nc.info/pdf/1ani.pdf&#34;&gt;Mapping spaces of 1-truncated animated rings and transmuted gerbes&lt;/a&gt; &lt;em&gt;We explain how to compute mapping spaces between 1-truncated animated rings, and why we get natural gerbes on so called transmuted stacks from Bhatt&amp;rsquo;s notes &lt;a href=&#34;https://www.math.ias.edu/~bhatt/teaching/mat549f22/lectures.pdf&#34;&gt;prismatic F-Gauges&lt;/a&gt; .&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.leo-nc.info/pdf/pfd.pdf&#34;&gt;Perfectoid rings&lt;/a&gt;. &lt;em&gt;A colletion of basic facts about perfectoid rings. Included is a general tilting equivalence, a proof of almost purity for fields and miscellany on completions.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://www.leo-nc.info/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
+      <guid>https://www.leo-nc.info/research/</guid>
       <description>&lt;p&gt;My research focus on using perfectoid and prismatic techniques to various close problems. For example I am interested in understanding more clearly perfectoidizations. I am also interested in getting vanishing results in the prismatic setup.&lt;/p&gt;&#xA;&lt;p&gt;Some keywords (in a more or less random order) I use/know/like/do research about/am interested in/etc. &lt;em&gt;Perfectoids, prismatic cohomology, generic vanishing, geometrization, motives, six-functor formalisms, motivic methods to prove vansihing theorems, infinity-categories, condensed maths, (higher) stacks, affine stacks, deformation theory,(infinity) topos theory, (higher) Galois theory à la Grothendieck,etc.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/seminars/</link>
+      <link>https://www.leo-nc.info/seminars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/seminars/</guid>
+      <guid>https://www.leo-nc.info/seminars/</guid>
       <description>&lt;p&gt;Here is a list of seminars I (co-)organized or am corganizing.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;p-adic cohomology.&lt;/strong&gt; &lt;em&gt;With Jefferson Baudin and Domenico Valloni.&lt;/em&gt; Fall 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Higher categories.&lt;/strong&gt;  &lt;em&gt;With Virgile Constantin and Bruno Galvez Araneda.&lt;/em&gt;  Introduction to infinity-categories, reading group with (PhD) students. Summer 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Integral models of homotopy types.&lt;/strong&gt; &lt;em&gt;With Samuel Lavenir and Victor Roca i Lucio.&lt;/em&gt; Spring 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Homotopy theory in algebraic geometry and vice-versa.&lt;/strong&gt; &lt;em&gt;With Samuel Lavenir and Victor Roca i Lucio.&lt;/em&gt; Fall 2023.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/teaching/</link>
+      <link>https://www.leo-nc.info/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/</guid>
+      <guid>https://www.leo-nc.info/teaching/</guid>
       <description>&lt;p&gt;Here is a list of teaching activities I have a been part of.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Algebraic Geometry II - schemes and sheaves.&lt;/strong&gt; Principal assistant. Fall 2023 and 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Rings and fields.&lt;/strong&gt;  (co)Principal assistant. Spring 2023 and 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Algebraic structures.&lt;/strong&gt; Teaching assistant. Fall 2022.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I supervised Bachelor projects.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cohomology computations.&lt;/strong&gt; Léo Karlen. Spring 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Incarnations of Galois groups.&lt;/strong&gt; Héloïse Mansat. Spring 2023.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,34 +1,45 @@
-name: Deploy to FTP
+name: Deploy Hugo site to FTP
 
 on:
   push:
-    branches:
-      - main  # Déclenchement lorsque tu pousses sur la branche "main"
+    branches: [ main ]
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # Étape 1 : Cloner le dépôt GitHub
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      # Étape 2 : Installer Hugo
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.126.1'   # mets la version que tu utilises
+          extended: true
 
-      # Étape 3 : Construire le site Hugo
-      - name: Build Hugo site
-        run: hugo
+      - name: Build
+        env:
+          HUGO_ENV: production
+        run: |
+          hugo --minify --cleanDestinationDir
+          echo "---- BUILT FILES ----"
+          ls -lah public | sed -n '1,200p'
+          echo "---- robots.txt ----"
+          if [ -f public/robots.txt ]; then cat public/robots.txt; else echo "robots.txt NOT FOUND"; fi
 
-      # Étape 4 : Déployer via FTP
-      - name: Deploy to FTP
-        uses: SamKirkland/FTP-Deploy-Action@4.3.1
+      - name: Deploy via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4
         with:
           server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USER }}
+          username: ${{ secrets.FTP_USER }}         # ou FTP_USERNAME si c'est le nom de ton secret
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: public/
+          local-dir: ./public
+          server-dir: /www/leo-nc.info/            # ← adapte au chemin réel sur ton hébergeur
+          # options utiles :
+          dangerous-clean-slate: true               # nettoie la cible (équiv. cleanDestinationDir côté serveur)
+          log-level: verbose

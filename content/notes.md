@@ -6,6 +6,8 @@ description= "A collection of various mathematical notes"
 
 Here is a collection of various mathematical notes.
 
+[Notes on derived stacks](/pdf/derivedstacks.pdf) _Notes on derived stacks written as support for a talk given at an EPFL seminar in autumn 2025. Contains an introduction to infinity-categories, derived rings, cotangent complex, derived (critical) loci._
+
 [Mapping spaces of 1-truncated animated rings and transmuted gerbes](/pdf/1ani.pdf) _We explain how to compute mapping spaces between 1-truncated animated rings, and why we get natural gerbes on so called transmuted stacks from Bhatt's notes [prismatic F-Gauges](https://www.math.ias.edu/~bhatt/teaching/mat549f22/lectures.pdf) ._
 
 [Perfectoid rings](/pdf/pfd.pdf). _A colletion of basic facts about perfectoid rings. Included is a general tilting equivalence, a proof of almost purity for fields and miscellany on completions._

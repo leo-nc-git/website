@@ -19,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.126.1'   # mets la version que tu utilises
+          hugo-version: '0.126.1'   # mets ta version si différente
           extended: true
 
       - name: Build
@@ -27,19 +27,16 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo --minify --cleanDestinationDir
-          echo "---- BUILT FILES ----"
-          ls -lah public | sed -n '1,200p'
           echo "---- robots.txt ----"
           if [ -f public/robots.txt ]; then cat public/robots.txt; else echo "robots.txt NOT FOUND"; fi
 
       - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
         with:
           server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USER }}         # ou FTP_USERNAME si c'est le nom de ton secret
+          username: ${{ secrets.FTP_USER }}           # ou FTP_USERNAME selon tes secrets
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public
-          server-dir: /www/leo-nc.info/            # ← adapte au chemin réel sur ton hébergeur
-          # options utiles :
-          dangerous-clean-slate: true               # nettoie la cible (équiv. cleanDestinationDir côté serveur)
+          server-dir: /www/leo-nc.info/               # ← adapte au chemin réel
+          dangerous-clean-slate: true
           log-level: verbose

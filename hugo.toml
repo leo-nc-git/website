@@ -1,10 +1,13 @@
 baseURL = 'https://www.leo-nc.info/'
 languageCode = 'en-us'
 title = 'Léo Navarro Chafloque'
+enableRobotsTXT = true
 
 theme = "typo"
 
 [params]
+description = "Personal webpage. My name is _Léo Navarro Chalfoque_ and I am a PhD student in Maths at EPFL in the [CAG group](https://www.epfl.ch/labs/cag/)."
+
 homeIntroContent = """
 My name is _Léo Navarro Chalfoque_ and I am a PhD student at EPFL in the [CAG group](https://www.epfl.ch/labs/cag/). I work in mixed characteristic algebraic geometry. I am also interested in homotopy theory, especially when it interacts with the former.
 """

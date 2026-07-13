@@ -27,8 +27,8 @@ url = "/"
 name = "research"
 url = "/research"
 [[params.menu]]
-name = "notes"
-url = "/notes"
+name = "papers"
+url = "/papers"
 [[params.menu]]
 name = "seminars"
 url = "/seminars"

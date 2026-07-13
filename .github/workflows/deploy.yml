@@ -19,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.126.1'   # mets ta version si différente
+          hugo-version: '0.126.1'
           extended: true
 
       - name: Build
@@ -34,9 +34,9 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.6
         with:
           server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USER }}           # ou FTP_USERNAME selon tes secrets
+          username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public/
-        #  server-dir: /www/leo-nc.info/               # ← adapte au chemin réel
+        #  server-dir: /www/leo-nc.info/              
           dangerous-clean-slate: true
           log-level: verbose

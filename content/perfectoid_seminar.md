@@ -33,7 +33,7 @@ I will give at least the first two sessions. Then participants are invited to pr
 
 * **The prismatization of p-adic formal schemes**  
   *Bhargav Bhatt, Jacob Lurie*  
-  [arXiv:2201.06214](https://arxiv.org/abs/2201.06214) *(Note: URL fixed from typo)*
+  [arXiv:2201.06214](https://arxiv.org/abs/2201.06124) 
 
 * **Prismatic F-Gauges**  
   *Bhargav Bhatt (Course Notes, Princeton/IAS)*  

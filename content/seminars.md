@@ -5,6 +5,8 @@ hidePagination= true
 
 Here is a list of seminars I (co-)organized or am corganizing.
 
+**Perfectoid and prismatic methods** Fall 2026. [Webpage of the seminar](/perfectoid_seminar)
+
 **p-adic cohomology.** _With Jefferson Baudin and Domenico Valloni._ Fall 2024.
 
 **Higher categories.**  _With Virgile Constantin and Bruno Galvez Araneda._  Introduction to infinity-categories, reading group with (PhD) students. Summer 2024.

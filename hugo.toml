@@ -1,5 +1,5 @@
 baseURL = 'https://www.leo-nc.info/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Léo Navarro Chafloque'
 
 theme = "typo"

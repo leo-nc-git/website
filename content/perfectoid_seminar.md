@@ -8,20 +8,23 @@ hidePagination= true
 
 The seminar takes place on mondays in room MA-B1-524 from 10:15 to 12:00. A discussion/exercise session takes places in the same room from 13:15 to 14:00.
 
-I will give at least the first two sessions. Then participants are invited to present topics.
+I will give at least the first two sessions. Then participants are invited to present topics. 
 
 **Lectures**
 
-1. _(7 september: Léo)_ Introduction to perfectoid and prismatic methods. (By Zoom!) No exercices session.
+1. _(7 september: Léo)_ Introduction to perfectoid and prismatic methods. (By Zoom!) No exercice session.
 
 
 **Exercises**
 
-1. 
-
+1. [Getting acquainted](/pdf/ppmEx1.pdf)
 
 
 **Bibliography**
+
+* **Aspects of p-adic Hodge theory**  
+  *Bhargav Bhatt (Course Notes, Princeton/IAS)*  
+  [PDF Link](https://www.math.ias.edu/~bhatt/teaching/mat517f25/pHT-notes.pdf)
 
 * **Prisms and prismatic cohomology**  
   *Bhargav Bhatt, Peter Scholze*  
@@ -39,6 +42,3 @@ I will give at least the first two sessions. Then participants are invited to pr
   *Bhargav Bhatt (Course Notes, Princeton/IAS)*  
   [PDF Link](https://www.math.ias.edu/~bhatt/teaching/mat549f22/lectures.pdf)
 
-* **Aspects of p-adic Hodge theory**  
-  *Bhargav Bhatt (Course Notes, Princeton/IAS)*  
-  [PDF Link](https://www.math.ias.edu/~bhatt/teaching/mat517f25/pHT-notes.pdf)

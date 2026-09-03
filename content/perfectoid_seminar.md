@@ -8,7 +8,7 @@ hidePagination= true
 
 The seminar takes place on mondays in room MA-B1-524 from 10:15 to 12:00. A discussion/exercise session takes places in the same room from 13:15 to 14:00.
 
-I will give at least the first two sessions. Then participants are invited to present topics. 
+I will give at least the first two sessions. Then participants are invited to present topics: a detailled plan of the seminar will be published here soon. 
 
 **Lectures**
 

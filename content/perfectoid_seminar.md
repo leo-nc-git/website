@@ -12,7 +12,7 @@ I will give at least the first two sessions. Then participants are invited to pr
 
 **Lectures**
 
-1. _(7 september: Léo)_ Introduction to perfectoid and prismatic methods. (By Zoom!) No exercice session.
+1. _(7 september: Léo)_ Introduction to perfectoid and prismatic methods. (By Zoom!) No exercice session. [Notes.](/pdf/ppmLec1.pdf)
 
 
 **Exercises**

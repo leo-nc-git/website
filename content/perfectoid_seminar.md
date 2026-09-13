@@ -19,7 +19,7 @@ I will give at least the first two sessions. Then participants are invited to pr
 **Exercises**
 
 1. [Getting acquainted](/pdf/ppmEx1.pdf)
-2. [Perfectoid rings](/pfd/ppmEx2.pdf)
+2. [Perfectoid rings](/pdf/ppmEx2.pdf)
 
 
 **Bibliography**

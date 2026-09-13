@@ -14,10 +14,12 @@ I will give at least the first two sessions. Then participants are invited to pr
 
 1. _(7 september: Léo)_ Introduction to perfectoid and prismatic methods. (By Zoom!) No exercice session. [Notes.](/pdf/ppmLec1.pdf)
 
+2. _(14 september: Léo)_ Perfectoid rings, perfect prisms, Tilting equivalance. [Notes.](/pdf/ppmLec2.pdf)
 
 **Exercises**
 
 1. [Getting acquainted](/pdf/ppmEx1.pdf)
+2. [Perfectoid rings](/pfd/ppmEx2.pdf)
 
 
 **Bibliography**

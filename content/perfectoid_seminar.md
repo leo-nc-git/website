@@ -15,7 +15,7 @@ I will give at least the first two sessions. Then participants are invited to pr
 1. _(7 september: Léo)_ Introduction to perfectoid and prismatic methods. (By Zoom!) No exercice session. [Notes.](/pdf/ppmLec1.pdf)
 
 2. _(14 september: Léo)_ Perfectoid rings, perfect prisms, Tilting equivalance. [Notes.](/pdf/ppmLec2.pdf)
-3. _(23 september: Léo)_ Perfectoidization, arc topology, André's Lemma, Almost purity.
+3. *_(23 september: Léo)_* Perfectoidization, arc topology, André's Lemma, Almost purity. Exercises this week: Tuesday 14:15, same room. Seminar: Wednesday, 10:15 same room.
 4. _(28 september)_  Perfectizations. (Aspects of p-adic Hodge theory. Section 4)
 5. _(5 ocotber)_ Perfectoid crystals and overconvergent sheaves. (Aspects of p-adic Hodge theory. Section 5)
 6. _(12 october)_ Riemman-Hilbert. (Aspects of p-adic Hodge theory. Section 6)

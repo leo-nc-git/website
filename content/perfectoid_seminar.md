@@ -15,16 +15,16 @@ I will give at least the first two sessions. Then participants are invited to pr
 1. _(7 september: Léo)_ Introduction to perfectoid and prismatic methods. (By Zoom!) No exercice session. [Notes.](/pdf/ppmLec1.pdf)
 
 2. _(14 september: Léo)_ Perfectoid rings, perfect prisms, Tilting equivalance. [Notes.](/pdf/ppmLec2.pdf)
-3. _(23 september: Léo)_ Perfectoidization, arc topology, André's Lemma, Almost purity. [Notes.](/pdf/ppmLec3.pdf)
-4. _(19 october)_  Perfectizations. (Aspects of p-adic Hodge theory. Section 4)
-5. _(26 ocotber)_ Perfectoid crystals and overconvergent sheaves. (Aspects of p-adic Hodge theory. Section 5)
-6. _(2 november)_ Riemman-Hilbert. (Aspects of p-adic Hodge theory. Section 6)
-7. _(9 novembre)_ Almost coherence and RH (Aspects of p-adic Hodge theory. Section 7)
-8. _(16 november)_ Duality and t-exactness properties (Aspects of p-adic Hodge theory. Section 9 and 10)
-9. _(23 november)_ Applications (Aspects of p-adic Hodge theory. Section 8 and 11).
-10. _(30 november: Léo)_ Bhatt Cohen-Macaullayness and applications. [arXiv:2008.08070v2](https://arxiv.org/abs/2008.08070)
-11. _(7 december)_ Applcations to MMP [arXiv:2012.15801v3](https://arxiv.org/abs/2012.15801)
-12. _(14 december)_ Survey of prismatic cohomology. 
+3. _(23 september: Léo)_ Perfectoidization, arc topology, André's Lemma, Almost purity. [Notes.](/pdf/ppmLec3.pdf)  
+4. _(26 october)_  Perfectizations. (Aspects of p-adic Hodge theory. Section 4)
+5. _(2 november)_ Perfectoid crystals and overconvergent sheaves. (Aspects of p-adic Hodge theory. Section 5)
+6. _(9 november)_ Riemman-Hilbert. (Aspects of p-adic Hodge theory. Section 6)
+7. _(16 november)_ Almost coherence and RH (Aspects of p-adic Hodge theory. Section 7)
+8. _(23 november)_ Duality and t-exactness properties (Aspects of p-adic Hodge theory. Section 9 and 10)
+9. _(30 november)_ Applications (Aspects of p-adic Hodge theory. Section 8 and 11).
+10. _(7 december: Léo)_ Bhatt Cohen-Macaullayness and applications. [arXiv:2008.08070v2](https://arxiv.org/abs/2008.08070)
+11. _(14 december)_ Applcations to MMP [arXiv:2012.15801v3](https://arxiv.org/abs/2012.15801)
+12. _(21 december)_ Survey of prismatic cohomology. 
 
 **Exercises**
 

@@ -16,14 +16,14 @@ I will give at least the first two sessions. Then participants are invited to pr
 
 2. _(14 september: Léo)_ Perfectoid rings, perfect prisms, Tilting equivalance. [Notes.](/pdf/ppmLec2.pdf)
 3. _(23 september: Léo)_ Perfectoidization, arc topology, André's Lemma, Almost purity. [Notes.](/pdf/ppmLec3.pdf)  
-4. _(26 october)_  Perfectizations. (Aspects of p-adic Hodge theory. Section 4)
-5. _(2 november)_ Perfectizations, follow-up (Aspects of p-adic Hodge theory. Section 4) [Notes.](pdf/ppmLec4.pdf)
+4. _(26 october: Léo)_  Perfectizations. (Aspects of p-adic Hodge theory. Section 4)
+5. _(2 november:Léo)_ Perfectizations, follow-up (Aspects of p-adic Hodge theory. Section 4) [Notes.](pdf/ppmLec4.pdf)
 6. _(9 november)_ No seminar.
 7. _(16 november)_ Perfectoid crystals and overconvergent sheaves. (Aspects of p-adic Hodge theory. Section 5)
 8. _(23 november)_ Riemman-Hilbert. (Aspects of p-adic Hodge theory. Section 6)
 9. _(30 november)_ Almost coherence and RH (Aspects of p-adic Hodge theory. Section 7) and Duality and t-exactness properties (Aspects of p-adic Hodge theory. Section 9 and 10). Overview of results.
-10. _(7 december: Léo)_  Applications to derived splinters (Aspects of p-adic Hodge theory. Section 8)
-11. _(14 december)_ Applcations to vanishing theorems (Aspects of p-adic Hodge theory. Section 11).
+10. _(7 december: )_  Applications to derived splinters (Aspects of p-adic Hodge theory. Section 8)
+11. _(14 december:)_ Applcations to vanishing theorems (Aspects of p-adic Hodge theory. Section 11).
 
 
 **Exercises**

@@ -6,9 +6,11 @@ description= "My papers and a collection of various mathematical notes"
 
 Here is a list of my papers.
 
+1. **On perfectoid ideals** [arXiv:2610.31964](https://arxiv.org/abs/2610.31964) (2026).
+
 1. **On Perfectoidization of finite algebras over a perfectoid ring** _with Ryo Ishizuka_ [arXiv:2606.12229](https://arxiv.org/abs/2606.12229/) (2026).
 
-2. **Decomposition theorem for perfectoid rings along general ideals** _with Ryo Ishizuka_ [arXiv:2606.06241](https://arxiv.org/abs/2606.06241) (2026)
+2. **Decomposition theorem for perfectoid rings along general ideals** _with Ryo Ishizuka_ [arXiv:2606.06241](https://arxiv.org/abs/2606.06241) (2026).
 
 
 Here is a collection of various mathematical notes.

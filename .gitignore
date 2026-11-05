@@ -1,0 +1,4 @@
+# Generated Hugo output and build state
+/public/
+/resources/_gen/
+/.hugo_build.lock

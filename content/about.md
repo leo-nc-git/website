@@ -4,7 +4,7 @@ hidePagination= true
 +++
 
 
-I did my undegraduate maths studies at EPFL (1st and 2nd year), ENS Ulm (3rd year) and the University Bonn (4th and 5th year). Here is my [academical CV](https://drive.google.com/file/d/1jJUhM4yMhBtxE3LvqHcKW4w6qBXNdWCz/view?usp=drive_link).
+I did my undegraduate maths studies at EPFL (1st and 2nd year), ENS Ulm (3rd year) and the University Bonn (4th and 5th year). Here is my [academical CV](/pdf/CV.pdf).
 
 You can contact me at leo.navarrochafloque@epfl.ch
 
